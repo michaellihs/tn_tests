@@ -1,9 +1,10 @@
-Themen für Schulung Timo Nußbaum - 5.6.2012
-===========================================
+Themen für Schulung - 5.6.2012
+==============================
 
 0. Grundsätzliche Dinge
 
 - IDE (PhpStorm)
+- Versionskontroller mit GIT (am Beispiel Extension tn_tests)
 - Remote Debugging
 - Einbindung von T3 libs und Extbase / Fluid für Debugging
 
