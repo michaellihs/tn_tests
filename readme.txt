@@ -1,4 +1,4 @@
-Themen für Schulung - 5.6.2012
+Themen für Schulung - 5.6.201 und so weiter...
 ==============================
 
 0. Grundsätzliche Dinge
