@@ -1,4 +1,4 @@
-Themen für Schulung - 5.6.201 und so weiter...
+Themen für Schulung - 5.6.2012
 ==============================
 
 0. Grundsätzliche Dinge
@@ -72,3 +72,17 @@ Themen für Schulung - 5.6.201 und so weiter...
 5. Externe Daten
 
 - Verstehe die Frage nicht
+
+
+
+
+
+Infomaterial
+============
+
+http://www.amazon.de/Pro-Experts-Voice-Software-Development/dp/1430218339/ref=sr_1_1?ie=UTF8&qid=1338899738&sr=8-1
+Remote Debugging http://xdebug.org/
+Remote Debugging mit PHPStorm http://mimi.kaktusteam.de/blog-posts/2012/01/remote-debugging-mit-phpstorm-und-xdebug/
+Weitere Infos zu T3 und Ajax http://fedext.net/overview/welcome.html
+Clean Code lesen!!! http://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1338902175&sr=8-1
+Entwurfsmuster http://www.amazon.de/Entwurfsmuster-von-Kopf-bis-Fu%C3%9F/dp/3897214210/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1338902987&sr=1-1-catcorr
